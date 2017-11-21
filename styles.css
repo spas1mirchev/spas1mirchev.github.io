@@ -1,0 +1,28 @@
+
+#bag{
+    width: 200px;
+    height: 500px;
+    margin: 0 auto;
+    background: url(/home/ivona/Documents/SpasJS/greet/lamb.png) center no-repeat;
+    background-size: 80%;
+}
+
+#bag.burst{
+    background-image: url(/home/ivona/Documents/SpasJS/greet/holb.jpg);
+}
+
+#bag-health{
+    width: 300px;
+    border: 2px solid #9c27b0;
+    margin: 0 auto 20px auto;
+}
+
+#bag-health div{
+    height: 20px;
+    background: #e040fb;
+}
+
+#controls{
+    width: 120px;
+    margin: 0 auto;
+}
